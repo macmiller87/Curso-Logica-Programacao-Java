@@ -5,3 +5,5 @@ Este repositorio contém as atividades do curso de Java, com problemas resolvido
 #### Plataforma Beecrowd
 
 <p>https://www.beecrowd.com.br/judge/pt/login</p>
+
+#### Problems Level Easy.
