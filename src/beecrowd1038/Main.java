@@ -43,6 +43,9 @@ public class Main {
                 total5 = quantProd * refri;
                 System.out.printf("Total: R$ %.2f\n", total5);
                 break;
+            default:
+                System.out.println("Opçaõ selecionada não existe");
+                break;
         }
         
         sc.close();
